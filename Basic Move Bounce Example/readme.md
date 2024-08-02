@@ -1,6 +1,6 @@
 An example plugin showing how to use native functions to move an actor with collision checking.
 
-This probably isn't as optimal as it gets, but its better than using the default Move Actor event every frame. Many built in events use GBVM heavily to fetch and prepare values, making their use in an actors On Update event unviable. You can have about 3-4 actors moving at once and collion checking against walls without slowdown using this method. 
+This probably isn't as optimal as it gets, but its better than using the default Move Actor event every frame. Many built in events use GBVM heavily to fetch and prepare values, making their use in an actors On Update event unviable. You can have about 3-4 actors moving at once and collision checking against walls without slowdown using this method. 
 
 References: 
 
