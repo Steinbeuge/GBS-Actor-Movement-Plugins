@@ -1,6 +1,7 @@
 An example plugin showing how to use native functions for more performant actors
 
 References: 
+
 GB Studio source: https://github.com/chrismaltby/gb-studio/
 
 Guds actor ID: https://github.com/mikeleisz/gud_gbs_plugins/tree/main/Store%20Actor%20ID%20In%20Variable
