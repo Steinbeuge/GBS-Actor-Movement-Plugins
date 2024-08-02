@@ -1,2 +1,2 @@
 # GBS-Actor-Movement-Plugins
-A collection of actor movement plugins for GBS, suitable for action games
+A WIP collection of actor movement plugins for GBS Studio, suitable for action games
