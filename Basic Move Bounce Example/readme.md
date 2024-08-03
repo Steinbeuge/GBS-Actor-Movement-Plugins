@@ -1,4 +1,4 @@
-An example plugin showing how to use native functions to move an actor with collision checking.
+An example plugin showing how to use native functions to move an actor with collision checking. This example is still fairly CPU intensive and requires gameboy colour mode.
 
 This probably isn't as optimal as it gets, but its better than using the default Move Actor event every frame. Many built in events use GBVM heavily to fetch and prepare values, making their use in an actors On Update event unviable. You can have about 3-4 actors moving at once and collision checking against walls without slowdown using this method. 
 
